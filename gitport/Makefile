@@ -12,7 +12,7 @@ clean:
 
 out/joe-editor-hg:
 	mkdir -p out
-	hg clone http://hg.code.sf.net/p/joe-editor/mercurial out/joe-editor-hg
+	hg clone ../collection/mercurial/joe-editor.hg out/joe-editor-hg
 
 out:
 	mkdir -p out
