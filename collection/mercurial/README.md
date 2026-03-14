@@ -13,5 +13,5 @@ If you need to verify the original Mercurial metadata or branches as they existe
 
 1. **Clone the Bundle**:
    ```bash
-   hg clone joe-relic.hg joe-editor-mercurial
+   hg clone joe-editor.hg joe-editor-mercurial
    ```
